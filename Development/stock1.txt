@@ -1,0 +1,4 @@
+computer,30000,11
+HDD,2000,2
+phone,15000,2
+laptop,40000,7
